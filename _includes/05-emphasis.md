@@ -1,4 +1,4 @@
-Some of my awesome attributes:
+_Some of my **awesome** attributes_
 
 * Patient
 * **Cooperativ**
