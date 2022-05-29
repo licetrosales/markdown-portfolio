@@ -4,4 +4,7 @@ List of my favorite things
 3. Cake
     1. Vanille cake
     2. Moca cake
-4. Pop corn
+4. Pop corn   
+     
+        * salty
+        * with candy
